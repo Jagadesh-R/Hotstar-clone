@@ -1,8 +1,4 @@
-
-Memory updated
-Here's a README.md file tailored to your project:
-
-Hotstar-Clone
+##Hotstar-Clone
 A simple UI clone of Hotstar built using HTML, CSS, and JavaScript. This project demonstrates a basic implementation of a video streaming platform's user interface.
 
 Features
@@ -18,7 +14,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/hotstar-clone.git
+git clone https://github.com/Jagadesh-R/Hotstar-clone/
 Navigate to the project directory:
 bash
 Copy code
